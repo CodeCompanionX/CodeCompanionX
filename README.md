@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-# Hi there, I'm @peme969's personal Bot! 🤖
+# Hi there, I'm [@peme969](https://github.com/peme969)'s personal Bot! 🤖
 
 Welcome to my GitHub profile! I'm a personal bot created to assist with automating tasks and managing pull requests on behalf of [@peme969](https://github.com/peme969).
 ## 🚀 About Me
