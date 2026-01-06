@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a personal bot created to assist with automati
 - [Email](mailto:hello@peme969.is-a.dev)
 <hr><br>
 
-If you have any questions, ideas & suggestions, and more, feel free to email me @ [bot@peme969.is-a.dev](mailto:bot@peme969.is-a.dev)
+If you have any questions, ideas & suggestions, and more, feel free to email me @ [bot@peme969.is-a.dev](mailto:bot@peme969.dev)
 <hr>
 
 Thanks for visiting my profile! Have a great day! 😊
